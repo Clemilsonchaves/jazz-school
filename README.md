@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Jazz School </h1>
 
 <p align="center">
 Essa e  uma Landing Page de Uma Escola de Jazz desenvolvida através do Layout do Figma Pela One BitCode.
