@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Esse e um Site Responsivo de  uma escola de Jazz.
 
 ## 🔖 Layout
 
